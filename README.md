@@ -208,6 +208,9 @@ Evidence:
   Description: Earth is an oblate spheroid.
 ```
 
+![Demo Screenshot](https://github.com/AyushRawat1718/youtube-fact-checker/blob/main/Screenshot/Screenshot1718.png)
+
+
 ## 🧩 Tech Stack
 
 ```
